@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @umarhadimukti
 - 👀 I’m interested in backend developer
-- 🌱 I’m currently learning reactjs, nodejs, mongodb
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning laravel, reactjs, expressjs, mongodb, mysql
 
 <!---
 umarhadimukti/umarhadimukti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
