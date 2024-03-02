@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🌱 i’m currently learning **Laravel, Livewire, AlpineJS, TailwindCSS**
 
-- 📫 Feel free to reach me out **umarhadimukti@gmail.com**
+- 📫 feel free to reach me out **umarhadimukti@gmail.com**
 <!--Intro end-->
 
 <!--h1 without bottom border-->
@@ -40,7 +40,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,php,laravel,livewire,alpinejs,js,express,nextjs,nodejs,postman,mongodb,mysql,react,tailwind,bootstrap,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,php,laravel,alpinejs,js,express,nextjs,nodejs,postman,mongodb,mysql,react,tailwind,bootstrap,ts&perline=14" />
   </a>
 </p>
 
