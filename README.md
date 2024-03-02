@@ -40,7 +40,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,php,laravel,js,express,nextjs,nodejs,postman,mongodb,mysql,react,tailwind,bootstrap,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,php,laravel,livewire,alpinejs,js,express,nextjs,nodejs,postman,mongodb,mysql,react,tailwind,bootstrap,ts&perline=14" />
   </a>
 </p>
 
