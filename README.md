@@ -5,36 +5,36 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Umar</h1></summary>
+    <summary><h2 style="display: inline-block">Hi 👋, I'm Umar</h2></summary>
   </ul>
 </div>
 
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<!--   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a> -->
 </div>
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">confusion is part of programming</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🌱 I’m currently learning **Laravel, React, Nodejs, ExpressJS, MongoDB, MySQL**
+- 🌱 i’m currently learning **Laravel, Livewire, AlpineJS, TailwindCSS**
 
-- 📫 Feel free to reach me out **maarumar3012@gmail.com**
+- 📫 Feel free to reach me out **umarhadimukti@gmail.com**
 <!--Intro end-->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h3 style="display: inline-block">technologies that i know</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -49,7 +49,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">connect with me🤝</h2></summary>
   </ul>
 </div>
 
